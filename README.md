@@ -33,7 +33,7 @@ OFD标准有一系列技术优势。
 - [GB/T 33190-2016](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=3AF6682D939116B6F5EED53D01A9DB5D) - 电子文件存储与交换格式版式文档
 
 ## 库和SDK
-
+- [OFDConverter](https://github.com/wukonggo/OFDConverter) A straightforward PDF to OFD 简易的PDF转换为OFD格式文档
 - [ofdrw](https://github.com/ofdrw/ofdrw) - OFD Reader & Writer 开源的OFD处理库，支持文档生成、数字签名、文档保护、文档合并、转换、导出等功能(Java)
 - [ofd.js](https://github.com/DLTech21/ofd.js) - OFD板式文件html渲染方案及组件(JavaScript)
 - [ofdparser](https://github.com/wangyi160/ofdparser) - OFD解析器(Java)
