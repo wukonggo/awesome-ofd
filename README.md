@@ -43,7 +43,7 @@ OFD标准有一系列技术优势。
 - [ofd-analyze](https://github.com/cooker/ofd-analyze) - OFD 发票解析(Python)
 - [ofdparser](https://github.com/gongdaowen/ofdparser) - OFD电子发票验签、发票信息提取、保存为图片(Java)
 - [ofd-pdf](https://gitee.com/gblfy/ofd-pdf) - ofd和pdf 2种类型文件相互转换和ofd文件在线预览(Java)
-- [XiaoFeng.Ofd]https://github.com/zhuovi/XiaoFeng.Ofd OFD 读写处理库(.NET)
+- [XiaoFeng.Ofd](https://github.com/zhuovi/XiaoFeng.Ofd) OFD 读写处理库(.NET)
 
 ## 转换工具
 
