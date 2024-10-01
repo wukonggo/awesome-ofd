@@ -59,6 +59,7 @@ OFD标准有一系列技术优势。
 - [ofdbox](https://github.com/QAQtutu/ofdbox) - 推荐开源OFD图片转换解决方案
 - [pdfium](https://pdfium.googlesource.com/pdfium/) google pdfium
 - [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer) PdfiumViewer
+- [Spire.Pdf](https://github.com/SpirePDF/FreeSpire.PDF) free spire.pdf
 
 ## 阅读器
 
