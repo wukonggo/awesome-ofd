@@ -47,9 +47,18 @@ OFD标准有一系列技术优势。
 
 ## 转换工具
 
+### PDF转OFD方案
+1. 使用ofdrw库进行转换
+2. 利用Spire.Pdf免费版本，拆分3页转换后合并（每次3页）
+3. 使用Google的pdfium将PDF转为图片，再将图片转换为OFD
+
+### 相关工具
+
 - [Ofd2Pdf](https://github.com/taurusxin/Ofd2Pdf) - OFD转PDF工具
 - [ofd2img](https://github.com/geniusnut/ofd2img) - OFD转图片工具(Python OFD发票转为PNG)
 - [ofdbox](https://github.com/QAQtutu/ofdbox) - 推荐开源OFD图片转换解决方案
+- [pdfium](https://pdfium.googlesource.com/pdfium/) google pdfium
+- [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer) PdfiumViewer
 
 ## 阅读器
 
@@ -65,4 +74,5 @@ OFD标准有一系列技术优势。
 ## 文章和教程
 
 [理解 PDF 中的五种页面边界](https://sspai.com/post/61716)
+
 [PDF转OFD工具类 Java](https://blog.csdn.net/qq_51239427/article/details/141218181)
